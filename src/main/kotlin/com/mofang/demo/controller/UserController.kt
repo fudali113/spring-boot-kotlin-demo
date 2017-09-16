@@ -1,4 +1,4 @@
-package cc.fudali.demo.controller
+package com.mofang.demo.controller
 
 import org.springframework.data.mongodb.core.ReactiveMongoOperations
 import org.springframework.web.bind.annotation.*

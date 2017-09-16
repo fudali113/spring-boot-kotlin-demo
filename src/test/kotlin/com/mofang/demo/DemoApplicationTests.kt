@@ -1,4 +1,4 @@
-package cc.fudali.demo
+package com.mofang.demo
 
 import org.junit.Test
 import org.junit.runner.RunWith

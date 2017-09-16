@@ -1,4 +1,4 @@
-package cc.fudali.demo
+package com.mofang.demo
 
 import org.springframework.boot.SpringApplication
 import org.springframework.boot.autoconfigure.SpringBootApplication
